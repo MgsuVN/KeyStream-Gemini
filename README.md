@@ -31,7 +31,7 @@ KeyStream-Gemini is a high-performance reverse proxy designed to optimize Google
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/billtruong003/KeyStream-Gemini.git
+   git clone https://github.com/billtruong003/KeyStream-Gemini.git](https://github.com/MgsuVN/KeyStream-Gemini.git
    cd KeyStream-Gemini
    ```
 
