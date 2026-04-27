@@ -13,7 +13,7 @@ KeyStream-Gemini is a high-performance reverse proxy designed to optimize Google
 
 ## 📺 Video Tutorial & Demo
 <div align="center">
-  <a href="">
+  <a href="https://youtu.be/ejX3a8K3Vgk">
     <img src="https://i.postimg.cc/RhdzH2sF/image-(1).png" alt="Watch Setup Guide" width="100%" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
   <p><i>See how to bypass rate limits and integrate with Unity in 5 minutes.</i></p>
